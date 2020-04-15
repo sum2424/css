@@ -6,7 +6,7 @@ header .row>div:nth-child(1)>a {
 
     height: 50px;
 
-    background: url('https://github.com/sum2424/css/blob/master/source/sum2.png") no-repeat; /* url(로고 경로 입력) */
+    background: url('https://github.com/sum2424/css/sum2.png") no-repeat; /* url(로고 경로 입력) */
 
     background-size: auto 50px;
 
