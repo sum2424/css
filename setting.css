@@ -1,18 +1,21 @@
-:root {
-  --color-0: #ffffff; /* box color */
+header .row>div:nth-child(1)>a {
 
-  --color-1: #cceecc; /* */
-  --color-2: #e3f1af; /* */
-  --color-3: #7b00ff; /* main color */
-  --color-4: #71da35; /* sub  color */
-  --color-5: #cff1af; /* */
+    display: block;
 
-  --logo-URL: url("https://sum2424.github.io/css/source/sum2.png");
-  --logo-Width: 158px;
-  --logo-Height: 50px;
-  --logo-size-mobile: 90px 32px;
+    width: 200px;
 
-  --icon-URL: url("");
-  --pre-comment: "여기 계신 ";
-  --sub-comment: "명 살아계신가요?!";
+    height: 50px;
+
+    background: url('https://sum2424.github.io/css/source/sum2.png") no-repeat; /* url(로고 경로 입력) */
+
+    background-size: auto 50px;
+
+}
+
+
+
+header .row>div:nth-child(1)>a>img {
+
+  display: none;
+
 }
