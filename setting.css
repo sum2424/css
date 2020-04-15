@@ -1,0 +1,18 @@
+:root {
+  --color-0: #ffffff; /* box color */
+
+  --color-1: #cceecc; /* */
+  --color-2: #e3f1af; /* */
+  --color-3: #7b00ff; /* main color */
+  --color-4: #71da35; /* sub  color */
+  --color-5: #cff1af; /* */
+
+  --logo-URL: url("https://sum2424.github.io/css/source/sum.png");
+  --logo-Width: 158px;
+  --logo-Height: 50px;
+  --logo-size-mobile: 90px 32px;
+
+  --icon-URL: url("");
+  --pre-comment: "숨쉬고 계신 ";
+  --sub-comment: "명 살아계신가요?!";
+}
