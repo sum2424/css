@@ -8,7 +8,7 @@
 
 #board-info #viewers-area #viewers:before {
 
-    content: "여기 계신 ";    /* 숫자 앞에 들어갈 문구 */
+    content: "접속자 ";    /* 숫자 앞에 들어갈 문구 */
 
         /* ex) content: "트수 "; */
 
@@ -22,7 +22,7 @@
 
 #board-info #viewers-area #viewers:after {
 
-    content: "명 살아계시죠??";    /* 숫자 뒤에 들어갈 문구 */
+    content: "명";    /* 숫자 뒤에 들어갈 문구 */
 
         /* ex) content: "명 접속중"; */
 
