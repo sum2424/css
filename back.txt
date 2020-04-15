@@ -1,0 +1,9 @@
+body {
+
+    height: auto !important;
+
+    background: url(https://sum2424.github.io/css/source/back.jpg);    /* 배경색 코드 입력 */
+
+        /* ex) background: #ffffff; */
+
+}
